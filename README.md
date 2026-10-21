@@ -1,1 +1,3 @@
-[Open](https://webstashdude.github.io/)
+
+just opens this link:
+[link](https://webstasher.neocities.org/)
